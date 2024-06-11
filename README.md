@@ -1,10 +1,11 @@
 # Hey :wave:
 
-My name is Florian Brisset, and I am an apprentice :man_technologist: Full Stack developer at iMSA and a :student: student at Epitech.
+My name is Florian Brisset, and I am an apprentice 👨‍💻 Full Stack developer at iMSA and a 🧑‍🎓 student at Epitech.
 
 ## About me
 
 :books: I'm currently learning Rust, angular.
+
 :card_index_dividers: Currently working at iMSA.
 
 ### :hammer_and_wrench: Languages
@@ -41,7 +42,7 @@ My name is Florian Brisset, and I am an apprentice :man_technologist: Full Stack
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
 </div>
 
-### :toolbox: Tools
+### 🧰 Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo"  />
