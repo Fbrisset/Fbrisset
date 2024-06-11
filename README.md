@@ -6,7 +6,7 @@ My name is Florian Brisset, and I am an apprentice 💻 Full Stack developer at 
 
 :books: I'm currently learning Rust, angular.
 
-:card_index_dividers: Currently working at iMSA.
+:card_index_dividers: Currently working at iMSA (spring and angular).
 
 ### :hammer_and_wrench: Languages
 
