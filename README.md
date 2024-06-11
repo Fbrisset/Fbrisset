@@ -1,6 +1,6 @@
 # Hey :wave:
 
-My name is Florian Brisset, and I am an apprentice 👨‍💻 Full Stack developer at iMSA and a 🧑‍🎓 student at Epitech.
+My name is Florian Brisset, and I am an apprentice 💻 Full Stack developer at iMSA and a 🎓 student at Epitech.
 
 ## About me
 
